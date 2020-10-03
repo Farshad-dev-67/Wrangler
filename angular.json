@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "wrangler"
+    }
+  },
+  "defaultProject": "wrangler",
+  "cli": {
+    "analytics": "bba4ddcd-0242-40f3-9c58-93fce8649cc3"
+  }
 }
